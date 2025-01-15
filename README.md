@@ -1,1 +1,0 @@
-# lab5Error-correction-1---Hamming-Code
